@@ -1,12 +1,12 @@
-﻿Console.Write("введите число namber1: ");
-int number1 = int.Parse(Console.ReadLine());
-Console.Write("введите число namber2: ");
-int number2 = int.Parse(Console.ReadLine());
-if(number1 > number2);
+﻿//Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+Console.Write("введите первое число: ");
+int a= int.Parse(Console.ReadLine());
+Console.Write("введите второе число: ");
+int b= int.Parse(Console.ReadLine());
+if(a>b)
 {
-    Console.WriteLine ($"максимальное число ({number1}) минимальное число ({number2})");
-}
-if(number2 > number1);
-{ 
-    Console.WriteLine($"минимальное число({number2}) максимальное число ({number1})");    
+    Console.WriteLine($"большее число {a} меньшее число {b}");
+}else
+{
+    Console.WriteLine($"меньшее число {a} большее число {b}");
 }

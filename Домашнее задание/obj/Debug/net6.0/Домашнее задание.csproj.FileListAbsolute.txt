@@ -1,0 +1,15 @@
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\bin\Debug\net6.0\Домашнее задание.exe
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\bin\Debug\net6.0\Домашнее задание.deps.json
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\bin\Debug\net6.0\Домашнее задание.runtimeconfig.json
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\bin\Debug\net6.0\Домашнее задание.dll
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\bin\Debug\net6.0\Домашнее задание.pdb
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\Домашнее задание.csproj.AssemblyReference.cache
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\Домашнее задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\Домашнее задание.AssemblyInfoInputs.cache
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\Домашнее задание.AssemblyInfo.cs
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\Домашнее задание.csproj.CoreCompileInputs.cache
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\Домашнее задание.dll
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\refint\Домашнее задание.dll
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\Домашнее задание.pdb
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\Домашнее задание.genruntimeconfig.cache
+C:\Users\zhoro\OneDrive\Рабочий стол\Урок C#\Домашнее задание\obj\Debug\net6.0\ref\Домашнее задание.dll
